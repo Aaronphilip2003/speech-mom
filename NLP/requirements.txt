@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+pyttsx3
+gunicorn
+python-dotenv
+nltk
+spacy 
